@@ -1,5 +1,12 @@
-# esp32_gps
-MicroPython ESP32 with GPS module
+# esp32_gps  
+
+MicroPython ESP32 with GPS module.  
+It will be an universal GPS tracker which can be used for bicycle tracking or etc.
+
+**This project is still under construction due GPS module malfunction.**  
+Development will be continued when I buy some new GPS module and have some free time. 
+ 
+
 
 # Getting started
 1. Get the latest stable MicroPython [firmware](https://micropython.org/download/esp32/)  or take mine
@@ -14,4 +21,4 @@ MicroPython ESP32 with GPS module
 `ampy -p /dev/tty.SLAB_USBtoUART put functions.js functions.js`  
 `ampy -p /dev/tty.SLAB_USBtoUART put style.css style.css`  
 6. Check it works by visiting ESP32 IP address  
-7. 
+7. **TO BE CONTINUED**
