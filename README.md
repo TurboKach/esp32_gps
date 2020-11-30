@@ -5,6 +5,8 @@ It will be an universal GPS tracker which can be used for bicycle tracking or et
 
 **This project is still under construction due GPS module malfunction.**  
 Development will be continued when I buy some new GPS module and have some free time. 
+
+You might need to install [CP210x USB to UART bridge driver](https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers)
  
 
 
